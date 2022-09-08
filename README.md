@@ -7,3 +7,13 @@
 - Без использования Bootstrap.
 - Тестился в браузерах "Yandex", "Chrome", "Firefox", "Edge", "Safari", а также в их мобильных версиях.
 - Качество вёрстки проверено W3C
+
+### Мои контакты:
+
+- bespyatovserega@yandex.ru
+- https://t.me/bespyatovserega
+
+### Другие мои работы:
+
+<a href="https://github.com/sergeybespyatov/demo-1"><img width="33.3333%" src="https://github.com/sergeybespyatov/demo-1/blob/main/screenshot.jpg"/></a>
+<a href="https://github.com/sergeybespyatov/demo-3"><img width="33.3333%" src="https://github.com/sergeybespyatov/demo-3/blob/main/screenshot.jpg"/></a>
