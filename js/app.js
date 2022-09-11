@@ -64,10 +64,10 @@
       });
     }
   }, 0),
-    document.addEventListener("click", function (e) {
-      const t = document.querySelectorAll("a");
-      for (let o = 0; o < t.length; o++) e.preventDefault();
-    });
+//     document.addEventListener("click", function (e) {
+//       const t = document.querySelectorAll("a");
+//       for (let o = 0; o < t.length; o++) e.preventDefault();
+//     });
   const n = document.querySelectorAll("[data-anim-scroll]");
   if (n.length > 0) {
     function e() {
